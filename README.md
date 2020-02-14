@@ -4,6 +4,4 @@ This is my personal framework, stored here for automation.
 
 ## Prerequisites
 
-* On server
-** git
-
+* git
