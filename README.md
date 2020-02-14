@@ -1,1 +1,9 @@
-# hub
+# sgdjs/hub
+
+This is my personal framework, stored here for automation.
+
+## Prerequisites
+
+* On server
+** git
+
